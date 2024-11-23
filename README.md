@@ -1,1 +1,1 @@
-This is some basic code of C
+# This is some basic code of C
